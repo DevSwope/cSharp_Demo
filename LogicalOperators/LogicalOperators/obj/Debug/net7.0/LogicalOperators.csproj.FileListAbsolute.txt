@@ -1,0 +1,15 @@
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.csproj.AssemblyReference.cache
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.AssemblyInfoInputs.cache
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.AssemblyInfo.cs
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.csproj.CoreCompileInputs.cache
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/bin/Debug/net7.0/LogicalOperators
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/bin/Debug/net7.0/LogicalOperators.deps.json
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/bin/Debug/net7.0/LogicalOperators.runtimeconfig.json
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/bin/Debug/net7.0/LogicalOperators.dll
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/bin/Debug/net7.0/LogicalOperators.pdb
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.dll
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/refint/LogicalOperators.dll
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.pdb
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/LogicalOperators.genruntimeconfig.cache
+/Users/devanswope/Projects/LogicalOperators/LogicalOperators/obj/Debug/net7.0/ref/LogicalOperators.dll

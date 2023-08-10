@@ -1,0 +1,15 @@
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.csproj.AssemblyReference.cache
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfoInputs.cache
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.AssemblyInfo.cs
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.csproj.CoreCompileInputs.cache
+/Users/devanswope/Projects/Variables/Variables/bin/Debug/net6.0/Variables
+/Users/devanswope/Projects/Variables/Variables/bin/Debug/net6.0/Variables.deps.json
+/Users/devanswope/Projects/Variables/Variables/bin/Debug/net6.0/Variables.runtimeconfig.json
+/Users/devanswope/Projects/Variables/Variables/bin/Debug/net6.0/Variables.dll
+/Users/devanswope/Projects/Variables/Variables/bin/Debug/net6.0/Variables.pdb
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.dll
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/refint/Variables.dll
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.pdb
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/Variables.genruntimeconfig.cache
+/Users/devanswope/Projects/Variables/Variables/obj/Debug/net6.0/ref/Variables.dll

@@ -1,0 +1,15 @@
+/Users/devanswope/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion
+/Users/devanswope/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.deps.json
+/Users/devanswope/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.runtimeconfig.json
+/Users/devanswope/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.dll
+/Users/devanswope/Projects/TypeConversion/TypeConversion/bin/Debug/net7.0/TypeConversion.pdb
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.csproj.AssemblyReference.cache
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.AssemblyInfoInputs.cache
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.AssemblyInfo.cs
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.csproj.CoreCompileInputs.cache
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.dll
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/refint/TypeConversion.dll
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.pdb
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/TypeConversion.genruntimeconfig.cache
+/Users/devanswope/Projects/TypeConversion/TypeConversion/obj/Debug/net7.0/ref/TypeConversion.dll

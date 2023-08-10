@@ -1,0 +1,15 @@
+/Users/devanswope/Projects/StringsDemo/StringsDemo/bin/Debug/net7.0/StringsDemo
+/Users/devanswope/Projects/StringsDemo/StringsDemo/bin/Debug/net7.0/StringsDemo.deps.json
+/Users/devanswope/Projects/StringsDemo/StringsDemo/bin/Debug/net7.0/StringsDemo.runtimeconfig.json
+/Users/devanswope/Projects/StringsDemo/StringsDemo/bin/Debug/net7.0/StringsDemo.dll
+/Users/devanswope/Projects/StringsDemo/StringsDemo/bin/Debug/net7.0/StringsDemo.pdb
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.csproj.AssemblyReference.cache
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.AssemblyInfoInputs.cache
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.AssemblyInfo.cs
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.csproj.CoreCompileInputs.cache
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.dll
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/refint/StringsDemo.dll
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.pdb
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/StringsDemo.genruntimeconfig.cache
+/Users/devanswope/Projects/StringsDemo/StringsDemo/obj/Debug/net7.0/ref/StringsDemo.dll

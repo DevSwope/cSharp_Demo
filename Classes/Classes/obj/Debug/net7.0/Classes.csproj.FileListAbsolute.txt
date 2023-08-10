@@ -1,0 +1,15 @@
+/Users/devanswope/Projects/Classes/Classes/bin/Debug/net7.0/Classes
+/Users/devanswope/Projects/Classes/Classes/bin/Debug/net7.0/Classes.deps.json
+/Users/devanswope/Projects/Classes/Classes/bin/Debug/net7.0/Classes.runtimeconfig.json
+/Users/devanswope/Projects/Classes/Classes/bin/Debug/net7.0/Classes.dll
+/Users/devanswope/Projects/Classes/Classes/bin/Debug/net7.0/Classes.pdb
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.AssemblyReference.cache
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfoInputs.cache
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.AssemblyInfo.cs
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.csproj.CoreCompileInputs.cache
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.dll
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/refint/Classes.dll
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.pdb
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/Classes.genruntimeconfig.cache
+/Users/devanswope/Projects/Classes/Classes/obj/Debug/net7.0/ref/Classes.dll

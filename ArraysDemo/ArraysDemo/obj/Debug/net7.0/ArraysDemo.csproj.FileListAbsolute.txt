@@ -1,0 +1,15 @@
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/bin/Debug/net7.0/ArraysDemo
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/bin/Debug/net7.0/ArraysDemo.deps.json
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/bin/Debug/net7.0/ArraysDemo.runtimeconfig.json
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/bin/Debug/net7.0/ArraysDemo.dll
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/bin/Debug/net7.0/ArraysDemo.pdb
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.csproj.AssemblyReference.cache
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.AssemblyInfoInputs.cache
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.AssemblyInfo.cs
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.csproj.CoreCompileInputs.cache
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.dll
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/refint/ArraysDemo.dll
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.pdb
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ArraysDemo.genruntimeconfig.cache
+/Users/devanswope/Projects/ArraysDemo/ArraysDemo/obj/Debug/net7.0/ref/ArraysDemo.dll
