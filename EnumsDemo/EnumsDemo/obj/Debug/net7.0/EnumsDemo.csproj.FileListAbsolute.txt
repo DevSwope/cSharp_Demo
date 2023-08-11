@@ -1,0 +1,15 @@
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/bin/Debug/net7.0/EnumsDemo
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/bin/Debug/net7.0/EnumsDemo.deps.json
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/bin/Debug/net7.0/EnumsDemo.runtimeconfig.json
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/bin/Debug/net7.0/EnumsDemo.dll
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/bin/Debug/net7.0/EnumsDemo.pdb
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.csproj.AssemblyReference.cache
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.AssemblyInfoInputs.cache
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.AssemblyInfo.cs
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.csproj.CoreCompileInputs.cache
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.dll
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/refint/EnumsDemo.dll
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.pdb
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/EnumsDemo.genruntimeconfig.cache
+/Users/devanswope/Documents/GitHub/cSharp_Demo/EnumsDemo/EnumsDemo/obj/Debug/net7.0/ref/EnumsDemo.dll
