@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/devanswope/Projects/Test/Test/Test.csproj",
+      "projectUniqueName": "/Users/devanswope/Documents/GitHub/cSharp_Demo/Test/Test/Test.csproj",
       "projectName": "Test",
-      "projectPath": "/Users/devanswope/Projects/Test/Test/Test.csproj",
+      "projectPath": "/Users/devanswope/Documents/GitHub/cSharp_Demo/Test/Test/Test.csproj",
       "packagesPath": "/Users/devanswope/.nuget/packages/",
-      "outputPath": "/Users/devanswope/Projects/Test/Test/obj/",
+      "outputPath": "/Users/devanswope/Documents/GitHub/cSharp_Demo/Test/Test/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/devanswope/.nuget/NuGet/NuGet.Config"
