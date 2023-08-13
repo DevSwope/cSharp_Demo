@@ -1,0 +1,15 @@
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/bin/Debug/net7.0/ReferenceTypeValueTypeDemo
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/bin/Debug/net7.0/ReferenceTypeValueTypeDemo.deps.json
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/bin/Debug/net7.0/ReferenceTypeValueTypeDemo.runtimeconfig.json
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/bin/Debug/net7.0/ReferenceTypeValueTypeDemo.dll
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/bin/Debug/net7.0/ReferenceTypeValueTypeDemo.pdb
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.csproj.AssemblyReference.cache
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.AssemblyInfoInputs.cache
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.AssemblyInfo.cs
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.csproj.CoreCompileInputs.cache
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.dll
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/refint/ReferenceTypeValueTypeDemo.dll
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.pdb
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ReferenceTypeValueTypeDemo.genruntimeconfig.cache
+/Users/devanswope/Projects/ReferenceTypeValueTypeDemo/ReferenceTypeValueTypeDemo/obj/Debug/net7.0/ref/ReferenceTypeValueTypeDemo.dll
